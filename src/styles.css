@@ -1,0 +1,17 @@
+@font-face {
+    font-family: SST;
+    src: url('./assets/sst-font/SSTMedium.TTF');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: SST;
+}
+
+body {
+    background-color: rgba(9,9,121,1);
+    background-image: linear-gradient(90deg, rgba(9,9,121,1) 10%, rgba(44,52,227,1) 58%, rgba(6,99,222,1) 89%);
+}
