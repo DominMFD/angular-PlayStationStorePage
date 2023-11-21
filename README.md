@@ -1,5 +1,6 @@
 # Página da PlayStation Store feita através do angular.
 
+https://angular-play-station-store-page.vercel.app
 
 Página totalmente funcional e dinâmica, criada a partir do princípio de componentização proposto pelo Angular e utilizando HTLM CSS e TypeScript
 
